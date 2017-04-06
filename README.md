@@ -8,7 +8,8 @@ Compatible with Google Authenticator.
 This package can be installed with the go get command:
 
 ````
-go get github.com/nathanwinther/totp.git
+go get github.com/nathanwinther/totp
+
 ````
 
 ## Usage
